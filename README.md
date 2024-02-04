@@ -9,7 +9,7 @@ Visualize stock price trends and revenue data using interactive plots.
 Utilizes yfinance for data extraction, BeautifulSoup for web scraping, and Matplotlib for data visualization.
 
 ## Technologies Used
-Python
-yfinance
-BeautifulSoup
-Matplotlib
+Python,
+yfinance,
+BeautifulSoup,
+Matplotlib.
